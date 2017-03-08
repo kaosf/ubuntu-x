@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER ka <ka.kaosf@gmail.com>
+MAINTAINER kaosf <ka.kaosf@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 RUN set -ex && \
