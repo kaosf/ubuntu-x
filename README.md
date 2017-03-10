@@ -50,6 +50,7 @@ gvncviewer localhost:1
 
 - https://twitter.com/mapk0y/status/838440104238575621
 - https://gist.github.com/mapk0y/315933e0b6a2d71cefe937433eeb5bd4
+- http://askubuntu.com/questions/648819/couldnt-start-xtightvnc-trying-default-font-path-vncserver
 
 ## License
 
