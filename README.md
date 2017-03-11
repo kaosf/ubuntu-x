@@ -52,6 +52,10 @@ gvncviewer localhost:1
 - https://gist.github.com/mapk0y/315933e0b6a2d71cefe937433eeb5bd4
 - http://askubuntu.com/questions/648819/couldnt-start-xtightvnc-trying-default-font-path-vncserver
 
+### NOTE
+
+`--no-install-recommends` option makes not to install a terminal emulator.
+
 ## License
 
 [![Public Domain](http://i.creativecommons.org/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/ "license")
