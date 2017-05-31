@@ -56,6 +56,10 @@ gvncviewer localhost:1
 
 `--no-install-recommends` option makes not to install a terminal emulator.
 
+## Build date
+
+- 2017-05-31
+
 ## License
 
 [![Public Domain](http://i.creativecommons.org/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/ "license")
